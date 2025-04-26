@@ -1,0 +1,56 @@
+* {
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-touch-callout: none;
+}
+
+
+body {
+    background-color:lightskyblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Vidaloka', serif;
+    font-size: 3rem;
+    color: black;
+    white-space: nowrap; /* Add this line */
+}
+
+#click-title {
+    text-align: center;
+    font-family: 'Vidaloka', serif;
+    font-size: 3rem;
+    color: black ;
+}
+
+footer {
+    text-align: center;
+   margin-top: 90px;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+img {
+   width: 75%;
+   margin-top: 10px;
+   user-select: none;
+}
+
+
+p {
+    font-size: 2rem;
+    color: #800080;
+    font-family: 'Vidaloka', serif;
+    margin-bottom: 0;
+}
+
